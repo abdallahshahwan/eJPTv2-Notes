@@ -22,7 +22,10 @@ WebDAV is a extension that enables File interaction to the users on IIS servers.
 
 - `davtest -url <url>/webdav -auth <user>:<password>`
 
-- `cadaver <url>/webdav` then it will display a prompt 
+- `cadaver <url>/webdav` then it will display a prompt
+
+- directory which contains ready webshells that can be uploaded on a web server to have a shell functionality:  /usr/share/webshells
+Usage Example ( after logging in with cadaver) : put /usr/share/webshells/webshell.asp
 
 #### Using CURL
 
